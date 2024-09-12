@@ -1,3 +1,5 @@
-# PartyTactics_Scripts
-PartyTactics 샘플 코드
-<img src = "https://github.com/Gen-ju/PartyTactics_Scripts/edit/master/SampleGIF.gif">
+# PartyTactics
+진행 중인 개인 프로젝트 PartyTactics의 샘플 코드입니다.
+
+![SampleGIF](https://github.com/user-attachments/assets/1f73d27d-fa88-4ce6-8d65-345f0d375ea8)
+
